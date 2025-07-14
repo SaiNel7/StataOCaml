@@ -1,0 +1,4 @@
+(executable
+ (public_name StataOCaml)
+ (name main)
+ (libraries StataOCaml ANSITerminal))

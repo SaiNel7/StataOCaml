@@ -1,0 +1,6 @@
+(library
+ (name StataOCaml)
+  (instrumentation
+  (backend bisect_ppx))
+  (libraries csv ANSITerminal batteries)
+)
