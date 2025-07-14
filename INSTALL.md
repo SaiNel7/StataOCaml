@@ -18,7 +18,7 @@ Run the command:
 dune exec bin/main.exe data/baseball.csv
 ```
 
-Fill in `baseball.csv` with whatever CSV you wish to use in our program. 
+Fill in `baseball.csv` with whatever CSV you wish to use in the program. 
 
 Then you can type in commands like the following:
 ```
